@@ -1,0 +1,29 @@
+.main{
+    margin-bottom: 8px;
+    border: 6rem;
+    padding: 2rem;
+    background-color: cyan;
+    color: black;
+}
+
+.contact{
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    color: aliceblue;
+}
+
+.mail{
+    text-align: center;
+    background-color: greenyellow;
+    margin: 100px;
+    padding: 10px;
+}
+
+.num{
+    text-align: center;
+    background-color: rgb(196, 19, 219);
+    margin: 100px;
+    padding: 10px;
+    color: bisque;
+}

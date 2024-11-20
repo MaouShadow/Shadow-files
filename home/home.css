@@ -1,0 +1,14 @@
+.top{
+    margin-bottom: 8px;
+    border: 6rem;
+    padding: 2rem;
+    background-color: cyan;
+    color: black;
+}
+
+.main{
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    color: aliceblue;
+}
